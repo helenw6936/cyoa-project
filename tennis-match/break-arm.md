@@ -1,1 +1,1 @@
-## Ouch! you broke your arm , you should of hit the griddy instead.
+## Ouch! you broke your arm , you should of hit the griddy instead. 
