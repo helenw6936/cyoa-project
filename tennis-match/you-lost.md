@@ -1,5 +1,5 @@
 ## You lost!
 
-turns out they're still better, better luck next time!
+No what matter you say you still lost, better luck next time!
 
 [ Start over](pick-a-racquet.md)
