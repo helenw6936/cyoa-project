@@ -1,4 +1,3 @@
 ## You lost!
-better luck next time
 
-
+turns out they're still better, better luck next time!
